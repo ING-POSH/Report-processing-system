@@ -3,7 +3,7 @@
 """
 Organization and Team Management Module
 Handles organization signup, team workspaces, and role-based access control
-Author: Boo-Boo Konneh
+Author: Ing Posh
 Date: February 26, 2026
 """
 

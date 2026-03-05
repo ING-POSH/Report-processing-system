@@ -1,5 +1,5 @@
 # Setup Script for Report Processing System
-# Author: Boo-Boo Konneh
+# Author: Ing Posh
 
 Write-Host "=== Report Processing System - Setup ===" -ForegroundColor Green
 Write-Host ""

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Report Processing System - Main Application
-Author: Boo-Boo Konneh
+Author: Ing Posh
 Date: March 2026
 """
 
